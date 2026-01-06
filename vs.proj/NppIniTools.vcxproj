@@ -208,7 +208,7 @@
     </Link>
     <PostBuildEvent>
       <Command>copy ..\license.txt ..\bin\license.txt
-copy ..\readme.FIRST ..\bin\readme.FIRST</Command>
+copy ..\readme.md ..\bin\readme.md</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
