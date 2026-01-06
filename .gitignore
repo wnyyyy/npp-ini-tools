@@ -5,6 +5,8 @@ bin/
 bin64/
 arm64/
 vs.proj/Debug
+vs.proj/NppIniTools/Debug
+vs.proj/NppIniTools/Release
 vs.proj/Release
 vs.proj/x64
 vs.proj/ARM64
